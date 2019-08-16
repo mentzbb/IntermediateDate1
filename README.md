@@ -1,4 +1,4 @@
-# Intermediate Strings Mentz Challenge
+# Intermediate Date 1 Mentz Challenge
 
 DRAFT CHALLENGE - YOU CAN WORK ON THIS BUT IT MAY CHANGE UNDER YOU.
 
@@ -25,7 +25,7 @@ To deploy to a non-scratch org, use:
 
 if you don't want to deploy the code, you can carry out a check deployment and execute the tests to get the results:
 
-`sfdx force:source:deploy -l RunSpecifiedTests -r IntermediateStrings_Test -c -u <username> -p ./force-app/`
+`sfdx force:source:deploy -l RunSpecifiedTests -r IntermediateDate1_Test -c -u <username> -p ./force-app/`
 
 ## Publishing the solution
 
