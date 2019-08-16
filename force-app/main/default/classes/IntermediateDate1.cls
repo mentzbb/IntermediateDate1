@@ -17,7 +17,7 @@ public with sharing class IntermediateDate1
     // - Assume if date is not null it is correctly formatted - no need to check for empty or 
     //   unparseable strings
     //
-    public static Integer HoursBetweenDateTimes(String date1, String date2) 
+    public static Integer HoursBetweenDateTimes(String dateStr1, String dateStr2) 
     {
     }
 }
