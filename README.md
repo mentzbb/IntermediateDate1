@@ -1,7 +1,5 @@
 # Intermediate Date 1 Mentz Challenge
 
-DRAFT CHALLENGE - YOU CAN WORK ON THIS BUT IT MAY CHANGE UNDER YOU.
-
 ## About
 For an overview of Mentz, see the [Blog Post](http://bobbuzzard.blogspot.com/2019/05/introducing-mentz-salesforce-developer.html)
  
